@@ -16,7 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         
 | Incident Response Planning and Execution
 | Cryptography
-| IDS | IPS
+| IDS 
+| IPS
 
 ## Tools
 
