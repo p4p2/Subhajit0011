@@ -1,11 +1,20 @@
 # Hello, I'm Subhajit
-<a href="https://www.linkedin.com/in/subhajit-barman-b9376620b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br>
 
 I am a recent graduate with a profound interest in Cyber Security and a dedication to solving complex problems.
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VndXE2azlvODRuZ2twNmFqdThlNWFldnZnbnAweXA3Zm41ZGtrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+# 💫 About Me:
+💼  **I’m currently working on:**  <br>Pentesting and SOC <br><br>🌱 **I’m currently learning:**  <br>Malware Analysis<br><br>💬 **Ask me about:**  <br>Cyber security,SIEM,EDR,SOC,Incident Response Planning and Execution
+Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br>II think that I am too handsome 😄.
+
+## 🌐 Socials:
+
 
 ## Skills
 
