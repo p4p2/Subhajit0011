@@ -1,4 +1,4 @@
-# Hello, I'm Subhajit
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD22BBB&random=false&width=435&lines=What's+up+guys+!+i'm+Subhajit+Barman" alt="Typing SVG" /></a>
 
 <br>
 
@@ -16,6 +16,8 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 F
 ## 🌐 Socials:
 
 
+## 📓 Latest blog posts
+<p>&#x25CF <a href="https://medium.com/@barmansubhajit09/introduction-to-soc-d3511d81d3d5">Introduction to SOC</a></p>
 ## Skills
 
 | Skill                                         
