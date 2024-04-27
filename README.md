@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 # 💫 About Me:
 💼  **I’m currently working on:**  <br>Pentesting and SOC <br><br>🌱 **I’m currently learning:**  <br>Malware Analysis<br><br>💬 **Ask me about:**  <br>Cyber security,SIEM,EDR,SOC,Incident Response Planning and Execution
-Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br>II think that I am too handsome 😄.
+Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 Fun fact, I love linux and cyber security so much .
 
 ## 🌐 Socials:
 
@@ -33,13 +33,15 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br>II thin
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
    <img src="https://img.shields.io/badge/-Snort-990000?style=for-the-badge&logo=Snort&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-Wazuh-002A52?style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
-
-<div>
+    <img src="https://img.shields.io/badge/-Wazuh-002A52?style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+<div>
+  
+</div>
+
+<div>
+    
 </div>
