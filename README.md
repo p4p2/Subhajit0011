@@ -15,9 +15,10 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 F
 
 ## 🌐 Socials:
 
-
 ## 📓 Latest blog posts
 <p>&#x25CF <a href="https://medium.com/@barmansubhajit09/introduction-to-soc-d3511d81d3d5">Introduction to SOC</a></p>
+
+
 ## Skills
 
 | Skill                                         
