@@ -30,18 +30,15 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br>II thin
 
 ## Tools
 
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
    <img src="https://img.shields.io/badge/-Snort-990000?style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Endpoint
 <div>
   <img src="https://img.shields.io/badge/-Wazuh-002A52?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
