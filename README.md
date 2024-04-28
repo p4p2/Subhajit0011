@@ -30,6 +30,7 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 F
 | Cryptography
 | IDS 
 | IPS
+| Cyber Kill Chain
 
 ## Tools
 
