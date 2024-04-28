@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 💼  **I’m currently working on:**  <br>Pentesting and SOC <br><br>🌱 **I’m currently learning:**  <br>Malware Analysis<br><br>💬 **Ask me about:**  <br>Cyber security,SIEM,EDR,SOC,Incident Response Planning and Execution
 Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 Fun fact, I love linux and cyber security so much .
 
-## 🌐 Socials:
+
 
 ## 📓 Latest blog posts
 <p>&#x25CF <a href="https://medium.com/@barmansubhajit09/introduction-to-soc-d3511d81d3d5">Introduction to SOC</a></p>
@@ -39,6 +39,11 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 F
     <img src="https://img.shields.io/badge/-Wazuh-002A52?style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF4500?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-48A646?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    
+
+
 </div>
 
 <div>
