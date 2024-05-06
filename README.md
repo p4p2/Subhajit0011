@@ -18,7 +18,7 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 F
 
 ## 📓 Latest blog posts
 <p>&#x25CF <a href="https://medium.com/@barmansubhajit09/introduction-to-soc-d3511d81d3d5">Introduction to SOC</a></p>
-
+<p>&#x25CF <a href="https://medium.com/@barmansubhajit09/what-is-cyber-kill-chain-848306f7d345">CYBER KILL CHAIN </a></p>
 
 ## Skills
 
