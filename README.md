@@ -1,13 +1,11 @@
 
-![github-header-image(3)](https://github.com/Subhajit0011/Subhajit0011/assets/167664044/1fe130f8-5a11-4c3f-beab-2908dc16a50e)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD22BBB&random=false&width=435&lines=What's+up+guys+!+i'm+Subhajit+Barman" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=What's+up+guys!+i'm+subha+-aka+p4p2" alt="Typing SVG" /></a>
 
 <br>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo1cWl5bDFtNWE5bjhlMW5kOWZrZ2loenl6Y2l5NHVnZTl6ODNycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxZEZSwadd6nK/giphy.gif">
 
 I am a recent graduate with a profound interest in Cyber Security and a dedication to solving complex problems.
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VndXE2azlvODRuZ2twNmFqdThlNWFldnZnbnAweXA3Zm41ZGtrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">
 
 ## Objective
 
